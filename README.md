@@ -4,6 +4,11 @@ Created 4 classes using teachable machine: Nothing, Rock, Paper and Scissors.
 Exported and saved the model to be utilsed later.
 Copied code to open webcam using opencv library 
 
+Milestone 3
+Set up a new enviorment 
+installed all necessary libraries including opencv-python, tensorflow and ipykernel in the new enviroment 
+
+
 Milestone 4 
 imported random
 Defined function "get_user-choice" which asks the user for an input and returns the value
